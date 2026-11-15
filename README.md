@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Abdulkarim Alqahtani 👋
 
-<!--
-**A-Y-ALQAHTANI/A-Y-ALQAHTANI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning front-end web development and building practical projects using HTML, CSS, and JavaScript.
 
-Here are some ideas to get you started:
+## Current Focus
+- Semantic HTML
+- Responsive CSS
+- JavaScript Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+- Visual Studio Code
+- Git & GitHub
+- Chrome DevTools
